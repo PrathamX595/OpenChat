@@ -1,6 +1,6 @@
 # AI ChatBot - OpenChat
 
-A modern, responsive AI chatbot built with Next.js 15, React 19, and TypeScript. Chat with multiple AI models from OpenRouter with a beautiful, intuitive interface featuring markdown support, etc.
+A modern, responsive AI chatbot built with Next.js 15, React 19, and TypeScript. Chat with multiple AI models from OpenRouter with a beautiful, intuitive interface featuring markdown support, etc .
 
 ![AI ChatBot Demo](https://img.shields.io/badge/Status-Live-brightgreen) ![Next.js](https://img.shields.io/badge/Next.js-15.3.5-black) ![React](https://img.shields.io/badge/React-19.0.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 
