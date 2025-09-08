@@ -84,7 +84,7 @@ A modern, responsive AI chatbot built with Next.js 15, React 19, and TypeScript.
 
 5. **Open your browser**
 
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the app in action!
+   Navigate to [http://localhost:3000](http://localhost:3000) to see the app in action
 
 ##  Project Structure
 
